@@ -1,2 +1,2 @@
-# 5nite©
+# 5nite™
 #Apna Time Ayega
