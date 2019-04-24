@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5NiteFilms", "5NiteFilms\5NiteFilms.csproj", "{901FC810-A84E-47EE-A2C2-5699B8877233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5NiteFilms.Tests", "5NiteFilms.Tests\5NiteFilms.Tests.csproj", "{B53D34CB-95C3-4DC1-9D48-32EC86566B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901FC810-A84E-47EE-A2C2-5699B8877233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901FC810-A84E-47EE-A2C2-5699B8877233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901FC810-A84E-47EE-A2C2-5699B8877233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901FC810-A84E-47EE-A2C2-5699B8877233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53D34CB-95C3-4DC1-9D48-32EC86566B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53D34CB-95C3-4DC1-9D48-32EC86566B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53D34CB-95C3-4DC1-9D48-32EC86566B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53D34CB-95C3-4DC1-9D48-32EC86566B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC64B9E4-931A-4CA9-9A98-B235D556A7DC}
+	EndGlobalSection
+EndGlobal
